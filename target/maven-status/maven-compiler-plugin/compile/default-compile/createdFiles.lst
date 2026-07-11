@@ -1,0 +1,17 @@
+com/example/dynamicframes/DynamicFramesApplication.class
+com/example/dynamicframes/DataInitializer.class
+com/example/dynamicframes/model/FrameEntity$FrameEntityBuilder.class
+com/example/dynamicframes/dto/FieldDTO$FieldDTOBuilder.class
+com/example/dynamicframes/repository/FrameRepository.class
+com/example/dynamicframes/repository/FieldRepository.class
+com/example/dynamicframes/controller/ConfigController.class
+com/example/dynamicframes/controller/FieldController.class
+com/example/dynamicframes/model/FieldEntity$FieldEntityBuilder.class
+com/example/dynamicframes/dto/FieldDTO.class
+com/example/dynamicframes/dto/FrameDTO$FrameDTOBuilder.class
+com/example/dynamicframes/model/FieldEntity.class
+com/example/dynamicframes/service/FrameService.class
+com/example/dynamicframes/controller/FrameController.class
+com/example/dynamicframes/controller/FormSubmitController.class
+com/example/dynamicframes/dto/FrameDTO.class
+com/example/dynamicframes/model/FrameEntity.class
