@@ -1,0 +1,13 @@
+/app/src/main/java/com/example/dynamicframes/dto/FieldDTO.java
+/app/src/main/java/com/example/dynamicframes/model/FieldEntity.java
+/app/src/main/java/com/example/dynamicframes/DataInitializer.java
+/app/src/main/java/com/example/dynamicframes/controller/FrameController.java
+/app/src/main/java/com/example/dynamicframes/controller/ConfigController.java
+/app/src/main/java/com/example/dynamicframes/dto/FrameDTO.java
+/app/src/main/java/com/example/dynamicframes/model/FrameEntity.java
+/app/src/main/java/com/example/dynamicframes/repository/FrameRepository.java
+/app/src/main/java/com/example/dynamicframes/DynamicFramesApplication.java
+/app/src/main/java/com/example/dynamicframes/repository/FieldRepository.java
+/app/src/main/java/com/example/dynamicframes/service/FrameService.java
+/app/src/main/java/com/example/dynamicframes/controller/FieldController.java
+/app/src/main/java/com/example/dynamicframes/controller/FormSubmitController.java
